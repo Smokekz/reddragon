@@ -1,0 +1,25 @@
+/*размеры доски если что хули нам царям*/
+.main-block {
+	width: 560px;
+	/*высота и ширина*/
+	height: 560px;
+	/*добавляем чтобы был по центру*/
+	margin: 30px auto;
+	border: 1px solid black;
+
+}
+/*далее квадратики шахматной доски*/
+.block {
+	width: 70px; /*ширина*/
+	height: 70px; /*высота*/
+	float:left;
+}
+/*далее окраска покраска хули ебать*/
+.black {
+	background: black;
+}
+
+.white {
+	background: white;
+
+}
