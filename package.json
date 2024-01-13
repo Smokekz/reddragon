@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Smokekz/reddragon/issues"
   },
-  "homepage": "https://github.com/Smokekz/reddragon#readme"
+  "homepage": "https://github.com/Smokekz/reddragon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
